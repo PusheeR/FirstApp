@@ -14,7 +14,7 @@ using FirstApp;
 	Console.WriteLine("---------------");
 
 	List<string> listMeyveler = new List<string>();
-	listMeyveler.Add("Vişne");
+	listMeyveler.Add("Visne");
 	listMeyveler.Add("Elma");
 	listMeyveler.Add("Kivi");
 	listMeyveler.Add("Karpuz");
